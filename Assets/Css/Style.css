@@ -25,3 +25,6 @@ table.highlight>tbody>tr:hover{
 table.striped1 > tbody > tr:nth-child(odd) {
   background-color: rgba(242, 242, 242, 0.971);
 }
+.container{
+    width: 100% !important; 
+}
