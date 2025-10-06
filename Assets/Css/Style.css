@@ -51,3 +51,7 @@ table.striped1 > tbody > tr:nth-child(odd) {
     bottom: 0;
     box-shadow: 0 0 5px #1976d2;
 }
+.pagination_container{
+    z-index: 999 !important;
+    background-color: white !important;
+}
